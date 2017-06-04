@@ -1,0 +1,142 @@
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 65px;
+    background: green;
+    color: white;
+    opacity: 1;
+    z-index: 1;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+}
+.push{
+    margin-top: 90px;
+    width: 100%;
+}
+.pad{
+    height: 20px;
+    width: 100%;
+    background: white;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+}
+.footer {
+  height: 390px;
+  background:green;
+    width: 100%;
+  left: 0px;
+}
+.container {
+    
+  height: 330px;
+  background:grey;
+    width: 100%;
+  left: 0px;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+}
+#d1,#d2,#d3{
+    height: 30px;
+    width: 60px;
+    background: grey;
+    color: white;
+    float: right;
+}
+.body{
+    height: 100%;
+}
+.portin1,.portin2{
+    -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+}
+h4{
+    text-align: center;
+    margin-top: 20px;
+    color:burlywood; 
+}
+h2{
+    text-align: center;
+    margin-top: 33px;
+    color:burlywood;
+}
+.icon{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+.fa-linkedin:hover{
+    color:#0077B5;
+}
+.fa-github-alt:hover{
+     color:#6cc644;
+}
+.fa-facebook-f:hover{
+     color:#3b5998;
+    
+}
+.fa-google-plus:hover{
+    color:  #d34836;
+}
+.fa-linkedin{
+    color: burlywood;
+}
+.fa-github-alt{
+     color: burlywood;
+}
+.fa-facebook-f{
+     color: burlywood;
+}
+.fa-google-plus{
+     color: burlywood;
+}
+.navbar{
+    background-color:green;
+    border: 0;
+}
+.icon-bar{
+    color:burlywood;
+}
+a.a1,a.a2,a.a3{
+     
+    background-color:#006600;
+    padding:8px 12px;
+    margin-top:7px;
+    margin-left: 2px;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 0 8px 6px -6px black;
+}
+.about1{
+    color: darkcyan;
+    font-size: 20px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+.about2{
+    margin-bottom: 5%;
+    font-size: 16px;
+}
+.port{
+    margin-top: 5%;
+}
+.img{
+    width: inherit;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    height: inherit;
+}
+.imagica{
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
