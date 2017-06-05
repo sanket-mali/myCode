@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=dna
+comment0.target=int\ findGene(java.lang.String)
+comment1.params=taaIndex\ tagIndex\ tgaIndex
+comment1.target=int\ findMin(int,\ int,\ int)
+comment1.text=public\ int\ countCTG(String\ dna)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ int\ index,count\=0;\n\ \ \ \ \ \ \ \ index\=dna.indexOf("CTG");\n\ \ \ \ \ \ \ \ while(index\!\=-1)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ count++;\n\ \ \ \ \ \ \ \ \ \ \ \ index\=dna.indexOf("CTG",index+3);\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ count;\n}
+comment2.params=dna\ startIndex\ codon
+comment2.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ test()
+numComments=4

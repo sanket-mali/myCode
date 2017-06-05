@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inImage
+comment0.target=edu.duke.ImageResource\ converter(edu.duke.ImageResource)
+comment1.params=
+comment1.target=void\ selectNConvert()
+comment2.params=newImage
+comment2.target=void\ doSave(edu.duke.ImageResource)
+numComments=3
